@@ -18,13 +18,13 @@ DOM manipulation, functional programming and more.**
 
 
 **Features:**
-✅ Log-in
-🎉 Transfer To Other Accounts
-🚀 Request Loan
-🎈 Delete Account
-🔁 Log-out Timer
-🔥 Sort Movements
-💥 Internationalize Date & Currency
+- ✅ _Log-in_
+- 🎉 _Transfer To Other Accounts_
+- 🚀 _Request Loan_
+- 🎈 _Delete Account_
+- 🔁 _Log-out Timer_
+- 🔥 _Sort Movements_
+- 💥 _Internationalize Date & Currency_
 
 
 **Technologies**:
