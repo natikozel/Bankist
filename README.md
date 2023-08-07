@@ -2,7 +2,7 @@
 A Website for the Bankist App
 
 ## Live Demo
-**You can see the `Bankist` Live On:** [Here](https://natikozel.github.io/Bankist/)
+**You can see the `Bankist Website` Live On:** [Here](https://natikozel.github.io/BankistWebsite/)
 
 ## Description
 
