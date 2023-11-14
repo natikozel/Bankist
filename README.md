@@ -28,3 +28,6 @@ DOM manipulation, functional programming and more.**
 
 
 **Technologies**:
+- JavaScript
+- HTML
+- CSS
